@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Curriculo",
+    "description": "",
+    "home_page_url": "https://curriculo.gutocarvalho.net",
+    "feed_url": "https://curriculo.gutocarvalho.net/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Guto Carvalho"
+    },
+    "items": [
+        {
+            "id": "https://curriculo.gutocarvalho.net/mini-curriculo.html",
+            "url": "https://curriculo.gutocarvalho.net/mini-curriculo.html",
+            "title": "Mini currículo",
+            "summary": "Agora vai!",
+            "content_html": "<p>Agora vai!</p>",
+            "author": {
+                "name": "Guto Carvalho"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-05-30T00:58:43-03:00",
+            "date_modified": "2021-05-30T00:58:43-03:00"
+        }
+    ]
+}

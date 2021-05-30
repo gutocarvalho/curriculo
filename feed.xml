@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Curriculo</title>
+    <link href="https://curriculo.gutocarvalho.net/feed.xml" rel="self" />
+    <link href="https://curriculo.gutocarvalho.net" />
+    <updated>2021-05-30T00:58:43-03:00</updated>
+    <author>
+        <name>Guto Carvalho</name>
+    </author>
+    <id>https://curriculo.gutocarvalho.net</id>
+
+    <entry>
+        <title>Mini currículo</title>
+        <author>
+            <name>Guto Carvalho</name>
+        </author>
+        <link href="https://curriculo.gutocarvalho.net/mini-curriculo.html"/>
+        <id>https://curriculo.gutocarvalho.net/mini-curriculo.html</id>
+
+        <updated>2021-05-30T00:58:43-03:00</updated>
+            <summary>
+                <![CDATA[
+                    Agora vai!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Agora vai!</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
