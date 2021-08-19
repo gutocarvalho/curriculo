@@ -3,7 +3,7 @@
     <title>Guto@Resume</title>
     <link href="https://curriculo.gutocarvalho.net/feed.xml" rel="self" />
     <link href="https://curriculo.gutocarvalho.net" />
-    <updated>2021-08-19T15:39:25-03:00</updated>
+    <updated>2021-08-19T15:41:40-03:00</updated>
     <author>
         <name>Guto Carvalho</name>
     </author>
@@ -154,11 +154,11 @@
         <link href="https://curriculo.gutocarvalho.net/golive/"/>
         <id>https://curriculo.gutocarvalho.net/golive/</id>
 
-        <updated>2021-06-03T22:30:25-03:00</updated>
+        <updated>2021-08-19T15:41:40-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://curriculo.gutocarvalho.net/media/posts/8/live.jpg" alt="" />
-                    Lives em que participei, fui host ou ministrei ;) _______________________________ 2021 _______________________________&hellip;
+                    Lives em que participei, fui host ou ministrei ;) _______________________________ 2021 Kubernetes&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -167,14 +167,18 @@
                 <div>Lives em que participei, fui host ou ministrei ;)</div>
 <div> </div>
 <div>_______________________________</div>
-<div><strong>2021</strong></div>
+<div><strong><strong>2021<br><br></strong></strong>
+<div>Kubernetes Simples com RKE e Rancher</div>
+<div>Evento: DevOps Extreme LinuxTIPs</div>
+<div>Data: Agosto/21</div>
+</div>
 <div> </div>
 <div>_______________________________</div>
 <div><strong>2020</strong></div>
 <div> </div>
 <div>Tipos de Deploy</div>
 <div>Evento: DevOpsDays Goiania</div>
-<div>Data: 16/Setembro/2010</div>
+<div>Data: 16/Setembro/20<br><br></div>
 <div>DevSecOps</div>
 <div>Evento: JAC LIVES</div>
 <div>Data: 08/Setembro/20</div>
