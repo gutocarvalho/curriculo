@@ -3,7 +3,7 @@
     <title>Guto@Resume</title>
     <link href="https://curriculo.gutocarvalho.net/feed.xml" rel="self" />
     <link href="https://curriculo.gutocarvalho.net" />
-    <updated>2021-09-25T10:59:54-03:00</updated>
+    <updated>2021-09-26T12:15:30-03:00</updated>
     <author>
         <name>Guto Carvalho</name>
     </author>
@@ -17,11 +17,11 @@
         <link href="https://curriculo.gutocarvalho.net/stats/"/>
         <id>https://curriculo.gutocarvalho.net/stats/</id>
 
-        <updated>2021-05-30T13:20:23-03:00</updated>
+        <updated>2021-09-25T11:02:38-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://curriculo.gutocarvalho.net/media/posts/16/stats.jpeg" alt="" />
-                     Aprovado em 19 certificações 135 Palestras e treinamentos ministrados Mais de&hellip;
+                     Aprovado em 19 certificações +d 135 Palestras e treinamentos ministrados +d&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -29,7 +29,7 @@
                     <img src="https://curriculo.gutocarvalho.net/media/posts/16/stats.jpeg" alt="" />
                 <p> </p>
 <p>Aprovado em 19 certificações</p>
-<p>135 Palestras e treinamentos ministrados<br><br>Mais de 400 alunos e alunas treinadas em IaC<br><br>93 eventos visitados no Brasil e EUA<br><br>2 DevOpsDays organizados (BSB)<br><br>2 filhos lindos (Beatriz e Artur)<br><br>3 gatos<br><br>Solteiro e muito bem assim ;)<br><br></p>
+<p>+d 135 Palestras e treinamentos ministrados<br><br>+d 400 alunos e alunas treinadas em IaC<br><br>93 eventos visitados no Brasil e EUA<br><br>2 DevOpsDays organizados (BSB)<br><br>2 filhos lindos (Beatriz e Artur)<br><br>3 gatos<br><br>Solteiro e muito bem assim ;)<br><br></p>
             ]]>
         </content>
     </entry>
@@ -88,17 +88,17 @@
         <link href="https://curriculo.gutocarvalho.net/atividades-e-projetos/"/>
         <id>https://curriculo.gutocarvalho.net/atividades-e-projetos/</id>
 
-        <updated>2021-09-25T10:52:51-03:00</updated>
+        <updated>2021-09-26T12:15:30-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://curriculo.gutocarvalho.net/media/posts/10/active-2.jpg" alt="" />
-                    _________________________________ 2021 2021::GR1D - Apoio na operação, sustentação e definição de projetos&hellip;
+                    _________________________________ 2021 2021::GROUPSOFTWARE - Apoio na troubleshooting de ambiente Rancher - Apoio&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://curriculo.gutocarvalho.net/media/posts/10/active-2.jpg" alt="" />
-                <p><strong>_________________________________<br>2021</strong><br><br>2021::GR1D<br><br>- Apoio na operação, sustentação e definição de projetos Cloud Native<br>- Sustentação de ambientes K8S e Rancher<br>- Sustentação de ambientes de API Gateway<br>- Implantação de WikiJS</p>
+                <p><strong>_________________________________<br>2021</strong></p>
 <p>2021::GROUPSOFTWARE<br><br>- Apoio na troubleshooting de ambiente Rancher<br>- Apoio na renovação dos certificados K3S/Rancher<br><br>2021::TELEWORLD<br><br>- Apoio no troubleshooting de ambiente OpenEBS<br><br>2021::TECHDOG<br><br>- Apoio no troubleshooting de ambiente JITSI em rodando containers<br>- Tuning de ambiente JTISI para performance<br><br>2021::COGNYTE<br><br>- Assessment da infraestrutura Cloud Native e GitOps da organização<br><br>2021::LAURA<br><br>- Assessment da infraestrutura Cloud Native e GitOps da organização<br>- Apoio na migração de cluster K8S para nova infra na AWS<br><br>2021::CLINICARX<br><br>- Assessment da infraestrutura Cloud Native e GitOps da organização<br>- Apoio na operação, sustentação e definição de projetos Cloud Native<br>- Definição de arquiteturas Cloud Native na DigitalOcean<br>- Implementação de Cluster Rancher<br>- Implementação de Cluster K8S Dev<br>- Implementação de Cluster K8S Hom<br>- Implementação de Cluster K8S Prod<br>- Configuração de Velero para Backup de Clusters na DigitalOcean Spaces<br>- Configuração de Buckets para Backup na DigitalOcean Spaces<br>- Codificação de esteiras PHP/JS modelo GitOps no GitLab CI<br>- Implantação de Passbolt, GitLab e Nexus</p>
 <p>2021::RNP</p>
 <p>- Assessment da infraestrutura Cloud Native e GitOps da organização<br>- Apoio na operação, sustentação e definição de projetos Cloud Native<br>- Definição de arquiteturas Cloud Native na AWS<br>- Mapaeamento de infraestrutrua do projeto ALA (SIBBR) em produção<br>- Re-implantação de projeto ALA (SIBBR) em nova conta e ambiente<br>- Implantação de monitoramento via UptimeRobot<br>- Integração de notificações de Monitoramento com Teams e MatterMost<br><br>2021::JAC<br><br>- Apoio na operação, sustentação e definição de projetos Cloud Native JAC<br>- Implementação de Cluster ProxMox OVH em novos servidores baremetal<br>- Implementação de Zammad para gerenciamento de ticket<br>- Implementação de WikiJS para documentação<br>- Implementação de MatterBridge para integração de Discord com MatterMost<br>- Implementação de MatterBridge para integração de Telegram com MatterMost<br>- Implementação de MatterBridge para integração de Slack com MatterMost<br>- Integração entre Zammad e MatterMost para notificações<br>- Migração de Zimbra para Google Workspaces<br>- Migração de Nextcloud para Google Workspaces</p>
