@@ -3,7 +3,7 @@
     <title>Guto@Resume</title>
     <link href="https://curriculo.gutocarvalho.net/feed.xml" rel="self" />
     <link href="https://curriculo.gutocarvalho.net" />
-    <updated>2021-10-05T15:19:47-03:00</updated>
+    <updated>2021-10-07T22:56:18-03:00</updated>
     <author>
         <name>Guto Carvalho</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://curriculo.gutocarvalho.net/stats/"/>
         <id>https://curriculo.gutocarvalho.net/stats/</id>
 
-        <updated>2021-09-25T11:02:38-03:00</updated>
+        <updated>2021-10-05T17:54:14-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://curriculo.gutocarvalho.net/media/posts/16/stats.jpeg" alt="" />
@@ -29,7 +29,7 @@
                     <img src="https://curriculo.gutocarvalho.net/media/posts/16/stats.jpeg" alt="" />
                 <p> </p>
 <p>Aprovado em 19 certificações</p>
-<p>+d 135 Palestras e treinamentos ministrados<br><br>+d 400 alunos e alunas treinadas em IaC<br><br>93 eventos visitados no Brasil e EUA<br><br>2 DevOpsDays organizados (BSB)<br><br>2 filhos lindos (Beatriz e Artur)<br><br>3 gatos<br><br>Solteiro e muito bem assim ;)<br><br></p>
+<p>+d 135 Palestras e treinamentos ministrados<br><br>+d 400 alunos e alunas treinadas em IaC<br><br>93 eventos visitados no Brasil e EUA<br><br>2 DevOpsDays organizados (BSB)<br><br>2 filhos lindos (Beatriz e Artur)<br><br>1 gata (Tweet)<br><br>Solteiro e muito bem assim ;)<br><br></p>
             ]]>
         </content>
     </entry>
@@ -158,21 +158,25 @@
         <link href="https://curriculo.gutocarvalho.net/golive/"/>
         <id>https://curriculo.gutocarvalho.net/golive/</id>
 
-        <updated>2021-09-25T10:59:27-03:00</updated>
+        <updated>2021-10-07T22:56:18-03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://curriculo.gutocarvalho.net/media/posts/8/live.jpg" alt="" />
-                    Lives em que participei com convidado, fui host ou ministrei ;) _______________________________&hellip;
+                    Lives – a partir de 2021 – em que participei com convidado,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://curriculo.gutocarvalho.net/media/posts/8/live.jpg" alt="" />
-                <div>Lives em que participei com convidado, fui host ou ministrei ;)</div>
+                <div>Lives – a partir de 2021 – em que participei com convidado, fui host ou ministrei ;)</div>
 <div> </div>
 <div>_______________________________</div>
 <div><strong><strong>2021<br><br></strong></strong>
-<div>Kubernetes Simples com RKE e Rancher</div>
+<div>
+<div>Explorando Cloud Native &amp; Kubernetes</div>
+<div>Evento: Webinar SaveInCloud</div>
+<div>Data: Outubro/21</div>
+<br>Kubernetes Simples com RKE e Rancher</div>
 <div>Evento: DevOps Extreme LinuxTIPs</div>
 <div>Data: Agosto/21</div>
 </div>
